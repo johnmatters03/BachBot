@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="introcs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmusic-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>

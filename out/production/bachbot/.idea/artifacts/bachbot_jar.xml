@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bachbot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bachbot_jar</output-path>
+    <root id="archive" name="bachbot.jar">
+      <element id="module-output" name="bachbot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/introcs.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jmusic-1.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/stdlib.jar" path-in-jar="/" />
+      <element id="library" level="project" name="explodingart.jmusic" />
+    </root>
+  </artifact>
+</component>
